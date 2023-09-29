@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cloudservicedatabase1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7298",
+      "launchBrowser": false
+    }
+  }
+}
